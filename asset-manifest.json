@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://sashwat2605.github.io/csb-g9lcmw/static/js/main.151625e3.chunk.js",
+    "main.js.map": "https://sashwat2605.github.io/csb-g9lcmw/static/js/main.151625e3.chunk.js.map",
+    "runtime-main.js": "https://sashwat2605.github.io/csb-g9lcmw/static/js/runtime-main.ab6cc361.js",
+    "runtime-main.js.map": "https://sashwat2605.github.io/csb-g9lcmw/static/js/runtime-main.ab6cc361.js.map",
+    "static/js/2.801ad9b3.chunk.js": "https://sashwat2605.github.io/csb-g9lcmw/static/js/2.801ad9b3.chunk.js",
+    "static/js/2.801ad9b3.chunk.js.map": "https://sashwat2605.github.io/csb-g9lcmw/static/js/2.801ad9b3.chunk.js.map",
+    "index.html": "https://sashwat2605.github.io/csb-g9lcmw/index.html",
+    "precache-manifest.4792e3b41256d2d41920ebcb6d0183b3.js": "https://sashwat2605.github.io/csb-g9lcmw/precache-manifest.4792e3b41256d2d41920ebcb6d0183b3.js",
+    "service-worker.js": "https://sashwat2605.github.io/csb-g9lcmw/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab6cc361.js",
+    "static/js/2.801ad9b3.chunk.js",
+    "static/js/main.151625e3.chunk.js"
+  ]
+}
